@@ -22,7 +22,7 @@ short_bio: >-
     My research interest broadly lies in the intersection of Machine Learning (LLM Pre/Post Training, Deep Generative Models), Optimization (Convex & Non-convex & Non-Smooth & Zeroth-Order Optimization, Optimal Transport), and Geometric Data Analysis (Manifold Learning, Topological Data Analysis). 
   </p>
   <p>
-    Currently, my works are focusing on LLM Alignment & Preference Optimization, LLM Reasoning, Zeroth-Order Optimization, and Geometry Processing. My research is partially supported by HKU-IDS Research Grant.
+    Currently, my works are focusing on LLM Alignment & Preference Optimization, LLM Reasoning, Zeroth-Order Optimization, and Geometry Processing. My research is partially supported by the HKU-IDS Research Grant.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -47,10 +47,8 @@ experience:
   position: Researcher; Supervised by Prof. Andrew Blumberg
   date: Dec. 2023 - Present
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+services:
+- name: Department of Mathematics, Columbia University
+  position: Teaching Assistant
+  position: MATH 2500 Analysis & Optimization (24 Spring/24 Fall/25 Spring)
+  date: Jan. 2024 - Present
