@@ -16,10 +16,10 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am working in the Columbia Geometric Data Analysis Group.
+    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am working closely with Columbia Geometric Data Analysis Group.
   </p>
   <p>
-    My research interests 
+    My research interest broadly lies in the intersection of Machine Learning (LLM Pre/Post Training, Deep Generative Models), Optimization (Convex & Non-convex & Non-Smooth & Zeroth-Order Optimization, Optimal Transport), and Geometric Data Analysis (Manifold Learning, Topological Data Analysis). Currently, my works are focusing on LLM Alignment & Preference Optimization, LLM Reasoning, Zeroth-Order Optimization, and Geometry Processing. 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
