@@ -23,26 +23,18 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+- name: Columbia College, Columbia University
+  logo: /assets/images/badges/columbia_icon.png
+  position: B.A. in Mathematics / Computer Science
+  date: May. 2026
+
+experience:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  position: Research Intern
   date: Sep. 2019 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
 awards:
 - name: Award Name 2
