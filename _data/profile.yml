@@ -36,8 +36,16 @@ education:
 experience:
 - name: Department of IEOR, Columbia University
   logo: /assets/images/badges/columbia_engg.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+  position: Researcher; Supervised by Prof. Tianyi Lin
+  date: Sep. 2024 - Present
+- name: HKU Musketeers Foundation Institute of Data Science
+  logo: /assets/images/badges/hku.png
+  position: Visiting Research Associate; Hosted by Prof. Yue Xie, Prof. Qingpeng Zhang
+  date: May. 2024 - Jan. 2025
+- name: Geometric Data Analysis Group, Columbia University
+  logo: /assets/images/badges/columbia_icon.png
+  position: Researcher; Supervised by Prof. Andrew Blumberg
+  date: Dec. 2023 - Present
 
 awards:
 - name: Award Name 2
