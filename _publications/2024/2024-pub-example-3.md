@@ -8,7 +8,7 @@ pub:            "NeurIPS 2024 Optimization for Machine Learning"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       "2024"
 
-cover:          /assets/images/covers/cover3.jpg
+# cover:          /assets/images/covers/cover3.jpg
 authors:
   - Peter Chen
   - Yue Xie
