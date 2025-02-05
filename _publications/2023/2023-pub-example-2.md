@@ -10,6 +10,6 @@ authors:
 - Yue Xie
 - Qingpeng Zhang
 links:
-  Paper: https://www.cell.com
+  Paper: https://arxiv.org/pdf/2502.01889
   Code: https://github.com/PeterLauLukChen/DisNOT
 ---
