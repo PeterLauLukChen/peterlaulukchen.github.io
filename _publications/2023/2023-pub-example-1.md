@@ -12,6 +12,6 @@ authors:
 - Julie Beth Sneddon
 - Yining Liu
 links:
-  Paper: https://www.cell.com
+  Paper: https://arxiv.org/pdf/2502.01890
   Code: https://github.com/PeterLauLukChen/GeoSeg
 ---
