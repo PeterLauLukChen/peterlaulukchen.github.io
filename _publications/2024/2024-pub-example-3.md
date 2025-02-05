@@ -14,6 +14,6 @@ authors:
   - Yue Xie
   - Qingpeng Zhang
 links:
+  Paper: https://openreview.net/forum?id=iCLEUcDGUJ
   Code: https://github.com/PeterLauLukChen/SICNN
-  Paper: https://openreview.net/forum?id=iCLEUcDGUJ&referrer=%5Bthe%20profile%20of%20Peter%20Chen%5D(%2Fprofile%3Fid%3D~Peter_Chen7)
 ---
