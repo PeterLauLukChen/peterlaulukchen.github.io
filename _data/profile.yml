@@ -34,10 +34,10 @@ education:
   date: May. 2026
 
 experience:
-#- name: Department of ECE, Princeton University
-  #logo: /assets/images/badges/princeton.jpg
-  #position: Research Intern; Hosted by Prof. Mengdi Wang
-  #date: Feb. 2025 - Present
+- name: Princeton University
+  logo: /assets/images/badges/princeton.jpg
+  position: Visiting Colloborator; Hosted by Prof. Mengdi Wang
+  date: Feb. 2025 - Present
 - name: Department of IEOR, Columbia University
   logo: /assets/images/badges/columbia_engg.png
   position: Researcher; Supervised by Prof. Tianyi Lin
