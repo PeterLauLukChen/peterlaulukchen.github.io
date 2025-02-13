@@ -16,7 +16,7 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am a part of the Geometric Data Analysis Group in Columbia.
+    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am a part of the Geometric Data Analysis Group in Columbia. I am now working closely with Prof. <a href="https://mwang.princeton.edu/">Mengdi Wang</a> and her group in Princeton.
   </p>
   <p>
     My research interest broadly lies in the intersection of Machine Learning (LLM Pre/Post Training, Deep Generative Models), Optimization (Convex & Non-convex & Non-Smooth & Zeroth-Order Optimization, Optimal Transport), and Geometric Data Analysis (Manifold Learning, Topological Data Analysis). 
@@ -36,7 +36,7 @@ education:
 experience:
 - name: Princeton University
   logo: /assets/images/badges/princeton.jpg
-  position: Visiting Colloborator; Hosted by Prof. Mengdi Wang
+  position: Research Intern; Hosted by Prof. Mengdi Wang
   date: Feb. 2025 - Present
 - name: Department of IEOR, Columbia University
   logo: /assets/images/badges/columbia_engg.png
