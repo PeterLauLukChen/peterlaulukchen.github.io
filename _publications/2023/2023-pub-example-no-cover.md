@@ -14,4 +14,7 @@ authors:
   - Xi Chen
   - Wotao Yin
   - Tianyi Lin
+
+HuggingFace🤗: https://huggingface.co/PeterLauLukCh/Mistral7B-trl_UltraFeedback-DPO
+Paper(Coming Soon):
 ---
