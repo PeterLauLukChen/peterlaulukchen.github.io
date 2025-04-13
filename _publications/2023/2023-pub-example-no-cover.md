@@ -8,7 +8,7 @@ pub:            "NeurIPS 2025, In Submission"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       "2025"
 
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/compo.jpg
 authors:
   - Peter Chen
   - Xi Chen
