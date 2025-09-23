@@ -2,7 +2,7 @@
 title:          "ComPO: Zeroth-Order Preference Optimization via Comparison Oracles"
 date:           2025-09-18 00:01:00 +0800
 selected:       true
-pub:            "Advances in Neural Information Processing Systems (NeurIPS 2025)"
+pub:            "Advances in Neural Information Processing Systems 38 (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
