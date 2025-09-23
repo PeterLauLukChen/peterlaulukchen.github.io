@@ -16,4 +16,7 @@ authors:
   - Wotao Yin
   - Xi Chen
   - Tianyi Lin
+links:
+  Tutorial: https://peterlaulukchen.github.io
+  Paper: https://arxiv.org/pdf/2510.27323
 ---
