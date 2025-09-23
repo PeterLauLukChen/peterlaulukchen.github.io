@@ -1,6 +1,6 @@
-primary_name: "Peter Lau-Luk Chen"
-secondary_name: "陳劉麓"
-navbar_name: "Peter L. Chen"
+primary_name: "Peter Lau Luk Chen"
+secondary_name: ""
+navbar_name: "Peter L Chen"
 
 positions:
 - logo: /assets/images/badges/columbia_icon.png  # Logo is optional
@@ -16,13 +16,10 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am a part of the Geometric Data Analysis Group in Columbia. I am now working closely with Prof. <a href="https://mwang.princeton.edu/">Mengdi Wang</a> and her group in Princeton.
+    I do theoretical-grounded LLM post training, via optimization theory and reinforcement learning to advance LLM reasoning and alignment. Apart from that, I enjoy doing optimal transport and geometry processing.
   </p>
   <p>
-    My research interest broadly lies in the intersection of Machine Learning (LLM Pre/Post Training, Deep Generative Models), Optimization (Convex & Non-convex & Non-Smooth & Zeroth-Order Optimization, Optimal Transport), and Geometric Data Analysis (Manifold Learning, Topological Data Analysis). 
-  </p>
-  <p>
-    Currently, my works are focusing on LLM Alignment & Preference Optimization, LLM Reasoning, Zeroth-Order Optimization, and Geometry Processing. My research is partially supported by the HKU-IDS Research Grant.
+    I am an undergradute student from Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I am now working closely with Prof. <a href="https://mwang.princeton.edu/">Mengdi Wang</a> and her group in Princeton.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -30,7 +27,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Columbia College, Columbia University
   logo: /assets/images/badges/columbia_icon.png
-  position: B.A. in Mathematics / Computer Science
+  position: B.A. in Mathematics, Computer Science
   date: May. 2026
 
 experience:
@@ -52,8 +49,8 @@ experience:
   date: Dec. 2023 - Present
 
 awards:
-- name: TA for MATH 2500 Analysis & Optimization (Sp 24/Fa 24/Sp 25)
+- name: TA for MATH 2500 Analysis & Optimization (Sp 24/Fa 24/Sp 25/Fa 25/Sp 26)
   date: Jan. 2024 - Present
-- name: Reviewer for ICLR (2025), AAAI (2025)
+- name: Reviewer for NeurIPS, ICLR, ICML, AAAI
   date: Present
 
