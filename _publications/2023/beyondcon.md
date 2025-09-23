@@ -1,5 +1,5 @@
 ---
-title:          "Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward"
+title:          "Beyong Contamination: Rethinking RLVR Learning Dynamics through Clipping, Entropy, and Random Rewards"
 date:           2025-09-17 00:01:00 +0800
 selected:       true
 pub:            "ICLR 2026, under review"
