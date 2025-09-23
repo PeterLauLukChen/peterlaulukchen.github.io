@@ -13,6 +13,6 @@ authors:
 - Zev Gartner
 - Yining Liu
 links:
-  Paper: https://arxiv.org/pdf/2502.01890
+  Paper: https://arxiv.org/pdf/2502.01890v3
   Code: https://github.com/PeterLauLukChen/GeoSeg
 ---
