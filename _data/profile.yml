@@ -35,18 +35,10 @@ experience:
   logo: /assets/images/badges/princeton.jpg
   position: Research Intern; Hosted by Prof. Mengdi Wang
   date: Feb. 2025 - Present
-- name: Department of IEOR, Columbia University
-  logo: /assets/images/badges/columbia_engg.png
-  position: Researcher; Supervised by Prof. Tianyi Lin
-  date: Sep. 2024 - Present
 - name: HKU Musketeers Foundation Institute of Data Science
   logo: /assets/images/badges/hku.png
-  position: Visiting Research Associate; Hosted by Prof. Yue Xie, Prof. Qingpeng Zhang
+  position: Research Intern; Hosted by Prof. Yue Xie, Prof. Qingpeng Zhang
   date: May. 2024 - Jan. 2025
-- name: Geometric Data Analysis Group, Columbia University
-  logo: /assets/images/badges/columbia_icon.png
-  position: Researcher; Supervised by Prof. Andrew Blumberg
-  date: Dec. 2023 - Present
 
 awards:
 - name: TA for MATH 2500 Analysis & Optimization (Sp 24/Fa 24/Sp 25/Fa 25/Sp 26)
