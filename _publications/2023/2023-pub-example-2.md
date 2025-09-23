@@ -1,7 +1,7 @@
 ---
 title:          "Displacement-Sparse Neural Optimal Transport"
 date:           2025-02-03 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Arxiv 2502.01889"
 # pub_date:       "2023"
 cover:          /assets/images/covers/disnot.jpg
