@@ -1,8 +1,8 @@
 ---
 title:          "ComPO: Zeroth-Order Preference Optimization via Comparison Oracles"
-date:           2025-03-29 00:01:00 +0800
+date:           2025-09-18 00:01:00 +0800
 selected:       true
-pub:            "NeurIPS 2025, In Submission"
+pub:            "Advances in Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -16,4 +16,5 @@ authors:
   - Tianyi Lin
 links:
   HuggingFace🤗: https://huggingface.co/ComparisonPO
+  Paper: https://arxiv.org/pdf/2505.05465
 ---
