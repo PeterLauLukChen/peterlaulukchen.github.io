@@ -13,5 +13,5 @@ authors:
 - Tianyi Lin
 links:
   HuggingFace🤗: https://huggingface.co/SpectralPO
-  Paper: https://arxiv.org/abs/2505.11595
+  Paper: https://arxiv.org/pdf/2505.11595
 ---
