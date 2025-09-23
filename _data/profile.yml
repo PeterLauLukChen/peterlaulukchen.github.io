@@ -33,11 +33,11 @@ education:
 experience:
 - name: Princeton University
   logo: /assets/images/badges/princeton.jpg
-  position: Research Intern; Hosted by Prof. Mengdi Wang
+  position: Research Intern; Hosted by Mengdi Wang
   date: Feb. 2025 - Present
 - name: HKU Musketeers Foundation Institute of Data Science
   logo: /assets/images/badges/hku.png
-  position: Research Intern; Hosted by Prof. Yue Xie, Prof. Qingpeng Zhang
+  position: Research Intern; Hosted by Yue Xie, Qingpeng Zhang
   date: May. 2024 - Jan. 2025
 
 awards:
