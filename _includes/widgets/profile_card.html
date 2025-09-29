@@ -57,7 +57,7 @@
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
                         {%- assign gscholar_url = site.data.profile.gscholar -%}
                         {%- else -%}
-                        {%- assign gscholar_url = 'https://scholar.google.com/citations?user=gz4susAAAAJ'}
+                        {%- assign gscholar_url = 'https://scholar.google.com/citations?user=gz4susAAAAJ' -%}
                         {%- endif -%}
                         <a class="pr-3 no-break" target="_blank" href="{{ gscholar_url }}">
                             <i class="ai ai-google-scholar"></i> Google Scholar
