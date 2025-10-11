@@ -17,4 +17,5 @@ authors:
 links:
   HuggingFace🤗: https://huggingface.co/ComparisonPO
   Paper: https://arxiv.org/pdf/2505.05465
+  Code: https://github.com/PeterLauLukChen/ComparisonPO
 ---
