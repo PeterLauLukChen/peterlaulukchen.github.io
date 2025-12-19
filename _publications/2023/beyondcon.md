@@ -18,5 +18,5 @@ authors:
   - Tianyi Lin
 links:
   Tutorial: https://peterlaulukchen.github.io
-  Paper: https://openreview.net/forum?id=sE8DCSJTzd
+  Paper: https://arxiv.org/pdf/2512.16912
 ---
