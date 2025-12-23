@@ -8,7 +8,7 @@ pub:            "Arxiv 2512.19682"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       "2025"
 
-cover:          /assets/images/covers/beyondcon.jpg
+cover:          /assets/images/covers/genenv.jpg
 authors:
   - Jiacheng Guo$^*$
   - Ling Yang$^*$
