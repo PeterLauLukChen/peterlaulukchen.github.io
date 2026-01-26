@@ -2,7 +2,7 @@
 title:          "Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward"
 date:           2025-09-17 00:01:00 +0800
 selected:       true
-pub:            "ICLR 2026, under review"
+pub:            "Proceedings of the International Conference on Learning Representations (ICLR 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -17,6 +17,5 @@ authors:
   - Xi Chen
   - Tianyi Lin
 links:
-  Tutorial: https://peterlaulukchen.github.io
   Paper: https://arxiv.org/pdf/2512.16912
 ---
