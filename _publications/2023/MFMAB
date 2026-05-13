@@ -8,7 +8,7 @@ pub:            "NeurIPS 2026, Under Review"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       "2025"
 
-cover:          /assets/images/covers/tree.jpg
+cover:          /assets/images/covers/tree.png
 authors:
   - Peter Chen
   - Xi Chen
