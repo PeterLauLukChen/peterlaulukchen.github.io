@@ -15,5 +15,5 @@ authors:
   - Xi Chen
   - Tianyi Lin
 links:
-  Paper: https://arxiv.org/pdf/2602.01921
+  Paper: https://arxiv.org/pdf/2602.02495
 ---
