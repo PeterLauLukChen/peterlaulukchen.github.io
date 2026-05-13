@@ -1,6 +1,6 @@
 ---
 title:          "Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward"
-date:           2025-09-17 00:01:00 +0800
+date:           2025-12-23 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the International Conference on Learning Representations (ICLR 2026)"
 # pub_pre:        "Submitted to "
