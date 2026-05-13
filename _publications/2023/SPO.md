@@ -1,8 +1,8 @@
 ---
 title:          "Stepwise Guided Policy Optimization: Coloring your Incorrect Reasoning in GRPO"
 date:           2025-05-27 00:01:00 +0800
-selected:       false
-pub:            "ICLR 2026, under review"
+selected:       true
+pub:            "Transactions on Machine Learning Research (TMLR 2026)"
 # pub_date:       "2023"
 cover:          /assets/images/covers/spo.jpg
 authors:
