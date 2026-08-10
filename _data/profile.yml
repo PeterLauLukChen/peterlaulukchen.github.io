@@ -15,7 +15,7 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I do RL, Optimization, and LLM Post-training.
+    I do RL and Optimization, with application to LLM post training and generative models. I am very fortunate to work with <a href="https://dawnsong.io/">Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>.
   </p>
   <p>
     I did my undergrad at Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I also spent a great time at Princeton with Prof. <a href="https://mwang.princeton.edu/">Mengdi Wang</a>'s group.
@@ -32,16 +32,6 @@ education:
   logo: /assets/images/badges/columbia_icon.png
   position: B.A. in Mathematics, Computer Science
   date: May. 2026
-
-experience:
-- name: Princeton University
-  logo: /assets/images/badges/princeton.jpg
-  position: Research Intern; Hosted by Mengdi Wang
-  date: 02/2025 -- 12/2025
-- name: HKU Musketeers Foundation Institute of Data Science
-  logo: /assets/images/badges/hku.png
-  position: Research Intern; Hosted by Yue Xie, Qingpeng Zhang
-  date: 05/2024 -- 08/2024
 
 awards:
 - name: TA for Analysis & Optimization (Sp 24/Fa 24/Sp 25/Fa 25/Sp 26)
