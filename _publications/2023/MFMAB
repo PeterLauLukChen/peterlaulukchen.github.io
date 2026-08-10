@@ -1,5 +1,5 @@
 ---
-title:          "Tree Bandits with Multi-fidelity Actions"
+title:          "Two-Fidelity Best-Action Identification for Stochastic Minimax Tree"
 date:           2026-06-01 00:01:00 +0800
 selected:       false
 pub:            "NeurIPS 2026, Under Review"
@@ -13,5 +13,5 @@ authors:
   - Peter Chen
   - Xi Chen
 links:
-  Paper: https://arxiv.org/pdf/2606.00211
+  Paper: https://arxiv.org/pdf/2606.01708
 ---
