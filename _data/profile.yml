@@ -2,11 +2,6 @@ primary_name: "Lau Luk Peter, Chen"
 secondary_name: ""
 navbar_name: "Peter Chen"
 
-positions:
-- logo: /assets/images/badges/damo.png  # Logo is optional
-  name: DAMO Academy, Alibaba Group U.S.
-
-
 email: "lc3826[at]columbia[dot]edu"
 cv_link: /assets/Luk-CV.pdf
 gscholar: gz4susAAAAJ  # This is an example, replace it with your own Google Scholar ID
@@ -16,7 +11,7 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I do RL, Optimization, and LLM Post-training. Currently, I work for the post-training division in DAMO Academy, under <a href="https://wotaoyin.mathopt.com/">Wotao Yin</a>.
+    I do RL, Optimization, and LLM Post-training.
   </p>
   <p>
     I did my undergrad at Columbia, advised by Prof. <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and Prof. <a href="https://tydlin.github.io/">Tianyi Lin</a>. I also spent a great time at Princeton with Prof. <a href="https://mwang.princeton.edu/">Mengdi Wang</a>'s group.
@@ -31,10 +26,6 @@ education:
   date: May. 2026
 
 experience:
-- name: DAMO Academy, Alibaba Group U.S.
-  logo: /assets/images/badges/post-train.jpg
-  position: Research Scientist Intern
-  date: 06/2026 -- 08/2026
 - name: Princeton University
   logo: /assets/images/badges/princeton.jpg
   position: Research Intern; Hosted by Mengdi Wang
@@ -47,4 +38,3 @@ experience:
 awards:
 - name: TA for Analysis & Optimization (Sp 24/Fa 24/Sp 25/Fa 25/Sp 26)
 - name: Reviewer for NeurIPS, ICLR, ICML, AAAI, TMLR
-
