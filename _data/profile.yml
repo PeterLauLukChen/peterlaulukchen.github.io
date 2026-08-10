@@ -2,6 +2,10 @@ primary_name: "Lau Luk Peter, Chen"
 secondary_name: ""
 navbar_name: "Peter Chen"
 
+positions:
+- logo: /assets/images/badges/bair_logo.png
+  name: UC Berkeley
+
 email: "lc3826[at]columbia[dot]edu"
 cv_link: /assets/Luk-CV.pdf
 gscholar: gz4susAAAAJ  # This is an example, replace it with your own Google Scholar ID
@@ -20,6 +24,10 @@ short_bio: >-
 portrait_url: /assets/images/photos/portrait.jpg
 
 education:
+- name: University of California, Berkeley
+  logo: /assets/images/badges/bair_logo.png
+  position: Ph.D. in Computer Science
+  date: May 2031
 - name: Columbia College, Columbia University
   logo: /assets/images/badges/columbia_icon.png
   position: B.A. in Mathematics, Computer Science
