@@ -15,7 +15,7 @@ twitter: peterlaulukch  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I do RL and Optimization, with application to LLM post training and generative models. I'm fortunate to work with <a href="https://dawnsong.io/">Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>.
+    I do RL and Optimization, with application to LLM post training and generative models. Currently, I'm fortunate to work with <a href="https://dawnsong.io/">Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>.
   </p>
   <p>
     I also work under <a href="https://wotaoyin.mathopt.com/">Wotao Yin</a> on post training. I did my undergrad at Columbia, advised by <a href="https://ajblumberg.github.io/">Andrew Blumberg</a> and <a href="https://tydlin.github.io/">Tianyi Lin</a>.
