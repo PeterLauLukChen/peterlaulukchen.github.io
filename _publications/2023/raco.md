@@ -2,6 +2,7 @@
 title:          "Reward-free Alignment for Conflicting Objectives"
 date:           2026-04-30 00:01:00 +0800
 selected:       true
+selected_order: 2
 pub:            "Proceedings of the International Conference on Machine Learning (ICML 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

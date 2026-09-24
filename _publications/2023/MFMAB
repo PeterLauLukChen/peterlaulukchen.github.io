@@ -1,8 +1,9 @@
 ---
 title:          "Two-Fidelity Best-Action Identification for Stochastic Minimax Tree"
 date:           2026-06-01 00:01:00 +0800
-selected:       false
-pub:            "NeurIPS 2026, Under Review"
+selected:       true
+selected_order: 1
+pub:            "Advances in Neural Information Processing Systems 36 (NeurIPS 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
