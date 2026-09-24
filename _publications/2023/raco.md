@@ -19,4 +19,5 @@ links:
   HuggingFace🤗: https://huggingface.co/RACOo
   Paper: https://arxiv.org/pdf/2602.02495
   Code: https://github.com/PeterLauLukChen/RACO
+  Talk Slides: /assets/Talk-Slides/raco.pdf
 ---
