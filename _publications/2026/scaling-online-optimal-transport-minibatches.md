@@ -8,4 +8,6 @@ cover:          /assets/images/covers/online-ot-flow-matching.png
 authors:
   - Peter Chen
   - Sergey Levine
+links:
+  Paper: https://arxiv.org/pdf/2610.18838
 ---
