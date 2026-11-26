@@ -1,32 +1,120 @@
----
-layout: default
-title : Publications
-navbar_title: Publications
-body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="100"
----
-
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-
-<div class="row">
-    <div class="col-12 col-lg-10">
-        {% for year in pubs_by_year %}
-        {% assign num_papers = year.items | size %}
-        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
-            {% for item in year.items %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
-            {% endfor %}
-        </div>
-        {% endfor %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications · Peter Chen</title>
+  <meta name="description" content="Research publications by Peter Chen, EECS, UC Berkeley.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="publications.css">
+</head>
+<body class="publication-archive">
+  <a class="pub-skip" href="#papers">Skip to publications</a>
+  <main class="wrap pub-archive" id="papers">
+    <header class="pub-archive-heading">
+      <nav aria-label="Breadcrumb"><a href="index.html">Peter Chen</a><span aria-hidden="true"> / </span>Publications</nav>
+      <h1>Publications</h1>
+    </header>
+<section class="pub-year" aria-labelledby="year-2026">
+  <h2 id="year-2026">2026</h2>
+  <div class="pub-list">
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2610.18838">Scaling Online Optimal Transport Minibatches for Flow Matching</a></h3>
+      <p class="pub-authors">Peter Chen, Sergey Levine</p>
+      <p class="pub-venue">Under Review</p>
     </div>
-
-    <div class="col-2 d-none d-lg-block">
-        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-            {% for year in pubs_by_year %}
-            <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
-            {% endfor %}
-        </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2610.03872v1">Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery</a></h3>
+      <p class="pub-authors">Peter Chen, Wotao Yin</p>
+      <p class="pub-venue">Under Review</p>
     </div>
-
-</div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2609.19144v1">A Zeroth-Order Paradigm for LLM Preference Alignment</a></h3>
+      <p class="pub-authors">Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin</p>
+      <p class="pub-venue">Journal of Machine Learning Research (JMLR), Under Review</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2606.01708">Two-Fidelity Best-Action Identification for Stochastic Minimax Tree</a></h3>
+      <p class="pub-authors">Peter Chen, Xi Chen</p>
+      <p class="pub-venue">Advances in Neural Information Processing Systems 39 (NeurIPS 2026)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2602.02495">Reward-free Alignment for Conflicting Objectives</a></h3>
+      <p class="pub-authors">Peter Chen, Xiaopeng Li, Xi Chen, Tianyi Lin</p>
+      <p class="pub-venue">Proceedings of the International Conference on Machine Learning (ICML 2026) <strong class="pub-honor">Oral</strong></p>
+    </div>
+  </article>
+  </div>
+</section>
+<section class="pub-year" aria-labelledby="year-2025">
+  <h2 id="year-2025">2025</h2>
+  <div class="pub-list">
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2512.16912">Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward</a></h3>
+      <p class="pub-authors">Peter Chen, Xiaopeng Li, Ziniu Li, Wotao Yin, Xi Chen, Tianyi Lin</p>
+      <p class="pub-venue">Proceedings of the International Conference on Learning Representations (ICLR 2026)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2505.05465">ComPO: Preference Alignment via Comparison Oracles</a></h3>
+      <p class="pub-authors">Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin</p>
+      <p class="pub-venue">Advances in Neural Information Processing Systems 38 (NeurIPS 2025)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2512.19682">GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators</a></h3>
+      <p class="pub-authors">Jiacheng Guo<sup>*</sup>, Ling Yang<sup>*</sup>, Peter Chen<sup>*</sup>, Qixin Xiao<sup>*</sup>, Yinjie Wang, Xinzhe Juan, Jiahao Qiu, Ke Shen, Mengdi Wang</p>
+      <p class="pub-venue">Advances in Neural Information Processing Systems 39 (NeurIPS 2026)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2502.01890v3">3D Cell Oversegmentation Correction via Geo-Wasserstein Divergence</a></h3>
+      <p class="pub-authors">Peter Chen, Bryan Chang, Olivia Annette Creasey, Julie Beth Sneddon, Zev Gartner, Yining Liu</p>
+      <p class="pub-venue">Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2505.11595">Stepwise Guided Policy Optimization: Coloring your Incorrect Reasoning in GRPO</a></h3>
+      <p class="pub-authors">Peter Chen, Xiaopeng Li, Ziniu Li, Xi Chen, Tianyi Lin</p>
+      <p class="pub-venue">Transactions on Machine Learning Research (TMLR 2026)</p>
+    </div>
+  </article>
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://arxiv.org/pdf/2502.01889">Displacement-Sparse Neural Optimal Transport</a></h3>
+      <p class="pub-authors">Peter Chen, Yue Xie, Qingpeng Zhang</p>
+      <p class="pub-venue">Arxiv 2502.01889</p>
+    </div>
+  </article>
+  </div>
+</section>
+<section class="pub-year" aria-labelledby="year-2024">
+  <h2 id="year-2024">2024</h2>
+  <div class="pub-list">
+  <article class="pub-row">
+    <div class="pub-info">
+      <h3 class="pub-heading"><a href="https://openreview.net/forum?id=iCLEUcDGUJ">SICNN: Sparsity-induced Input Convex Neural Network</a></h3>
+      <p class="pub-authors">Peter Chen, Yue Xie, Qingpeng Zhang</p>
+      <p class="pub-venue">NeurIPS 2024 Optimization for Machine Learning</p>
+    </div>
+  </article>
+  </div>
+</section>
+    <footer class="pub-archive-footer"><a href="index.html">Back to homepage</a></footer>
+  </main>
+</body>
+</html>

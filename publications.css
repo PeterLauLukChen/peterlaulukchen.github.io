@@ -1,0 +1,50 @@
+.pub-row { padding-block: .8rem; }
+.pub-row + .pub-row { border-top: 1px solid var(--rule); }
+.pub-row:first-child { padding-top: 0; }
+.pub-row:last-child { padding-bottom: 0; }
+.pub-info .pub-heading {
+  margin: 0;
+  font-size: clamp(1.025rem, 1.28vw, 1.14rem);
+  font-weight: 700;
+  line-height: 1.32;
+  letter-spacing: -.015em;
+}
+.pub-row .pub-authors, .pub-row .pub-venue {
+  margin: .3rem 0 0;
+  font-size: .89rem;
+  line-height: 1.52;
+}
+.pub-authors { color: #514b4d; }
+.pub-authors sup { line-height: 0; }
+.pub-venue { color: #62595d; font-style: italic; }
+.pub-honor {
+  display: inline-block;
+  padding: .25em .6em;
+  margin-inline-start: .16em;
+  border-radius: 999px;
+  background: #28a745;
+  color: white;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+}
+.pub-archive { margin-inline: auto; padding-block: 2rem 2.75rem; }
+.pub-archive-heading nav { font-size: .95rem; }
+.pub-archive-heading nav span { padding-inline: .4rem; }
+.pub-archive-heading h1 { text-align: center; margin: 1.5rem 0; }
+.pub-year + .pub-year { margin-top: 2.75rem; }
+.pub-year h2 { font-size: 1.125rem; margin: 0 0 1.15rem; }
+.pub-archive-footer { margin-top: 2.25rem; text-align: center; }
+.pub-skip {
+  position: absolute;
+  transform: translateY(-150%);
+  left: .5rem;
+  padding: .6rem;
+  background: white;
+  z-index: 5;
+}
+.pub-skip:focus { transform: none; }
+@media (max-width: 670px) {
+  .pub-archive { padding-block: 1.25rem 2rem; }
+}
